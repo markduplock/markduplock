@@ -16,3 +16,6 @@ Infra chaos. Building tools, homelab, and growing the fleet.
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/8fbcefed-f1e2-4896-8f1d-2640f08480ed/thumbnail" >
 </p>
+
+![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=markduplock&show_icons=true&theme=github_dark)
+
