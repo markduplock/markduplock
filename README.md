@@ -1,6 +1,6 @@
 # 🧠 Mark Duplock
 
-Infra chaos. Building tools, homelab, and growing the fleet.
+Infra chaos. Building tools, homelab, growing the fleet.
 
 ## 🚀 The Fleet
 
