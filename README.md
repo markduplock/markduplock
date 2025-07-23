@@ -1,4 +1,4 @@
-# 🧠 Mark Duplock
+# Mark Duplock
 
 Infra chaos. Building tools, homelab, growing the fleet.
 
