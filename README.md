@@ -1,3 +1,13 @@
+# 🧠 Mark Duplock
+
+Infra chaos. Building tools, homelab, and growing the fleet.
+
+## 🚀 The Fleet
+
+- 🖥️ `donnager` — Minisforum UM890 Pro, 64GB DDR5, 4TB NVMe
+- 💻 `rocinante` — Lenovo X13, 16GB DDR5, 500GB NVMe
+- 🍓 `razorback` — media server with 1TB SSD
+- 
 ![Fedora](https://img.shields.io/badge/Fedora-38%2B-blue?logo=fedora)
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![Zsh](https://img.shields.io/badge/Shell-Zsh-informational?logo=gnubash)
