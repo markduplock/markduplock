@@ -4,8 +4,8 @@ Infra chaos. Building tools, homelab, growing the fleet.
 
 ## 🚀 The Fleet
 
-- 🖥️ `rocinante` — Minisforum UM890 Pro, 64GB DDR5, 4TB NVMe
-- 💻 `razorback` — Lenovo X13, 16GB DDR5, 500GB NVMe
+- 🖥️ `rocinante` — Minisforum UM890 Pro, AMD Ryzen 9 8945HS, 64GB DDR5, 4TB NVMe
+- 💻 `razorback` — Lenovo X13, Intel Core Ultra 5 135U, 16GB DDR5, 500GB NVMe
 - 🍓 `lightweaver` — Pi4 file server with 1TB SSD
 
 <p align="left">
