@@ -1,6 +1,7 @@
 # Mark Duplock
 
-Infra chaos. Building tools, homelab, growing the fleet.
+Infra chaos. 
+Learning python by building tools, homelab, and growing the fleet.
 
 ## 🚀 The Fleet
 
