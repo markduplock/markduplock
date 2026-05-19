@@ -1,1 +1,1 @@
-![Dog at computer](https://www.meme-arsenal.com/en/create/meme/6140928)
+![Dog at computer](https://images.meme-arsenal.com/a1a2672eecad9a03b8d484c6c92b47da.jpg)
